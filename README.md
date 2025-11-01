@@ -8,51 +8,51 @@ https://www.linkedin.com/in/dewanmukto/
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! 😄 -->
 
 ## ⚒️ Languages & Frameworks
-![](https://muxai.github.io/cdn/img/github-badges-square/Python.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Java.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/C.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Fortran.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Lua.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/HTML.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/CSS.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/JavaScript.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Mongodb.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Expressjs.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Reactjs.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Nodejs.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Electronjs.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Jekyllrb.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/PHP.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Mariadb.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/MySQL.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/XAMPP.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Kotlin.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/JSON.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Pandas.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Gradle.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/OpenGL.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Qt.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/SFML.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Selenium.png)
-![](https://muxai.github.io/cdn/img/github-badges-square/Tailwind.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Python.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Java.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/C.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Fortran.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Lua.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/HTML.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/CSS.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/JavaScript.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Mongodb.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Expressjs.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Reactjs.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Nodejs.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Electronjs.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Jekyllrb.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/PHP.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Mariadb.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/MySQL.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/XAMPP.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Kotlin.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/JSON.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Pandas.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Gradle.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/OpenGL.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Qt.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/SFML.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Selenium.png)
+![](https://huanmux.github.io/cdn/img/github-badges-square/Tailwind.png)
 
 ## 💻 IDEs & Tools
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/VSCode.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Replit.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Android%20Studio.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Canva.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Figma.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/GIMP.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Analytics.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Cloudflare.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Netlify.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Render.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Vercel.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/PhpMyAdmin.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Apache.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Gitbook.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Overleaf.png" /></a>
-<a href="#"><img src="https://muxai.github.io/cdn/img/github-badges-square/Wireshark.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/VSCode.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Replit.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Android%20Studio.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Canva.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Figma.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/GIMP.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Analytics.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Cloudflare.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Netlify.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Render.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Vercel.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/PhpMyAdmin.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Apache.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Gitbook.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Overleaf.png" /></a>
+<a href="#"><img src="https://huanmux.github.io/cdn/img/github-badges-square/Wireshark.png" /></a>
 <br />
 
 
