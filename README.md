@@ -1,9 +1,4 @@
-<a href="https://behance.net/dmkto" target="_blank"><img src="https://pbs.twimg.com/profile_banners/1701192850531340288/1711379697/1500x500" /></a>
-
-```
-https://www.linkedin.com/in/dewanmukto/
-```
-
+<img src="https://uhtieumdogkgagbxvlda.supabase.co/storage/v1/object/public/media/profiles/20036305-5f35-485c-a542-667f122779b7/1766293963457_zcumlvz7hqc.gif" alt="banner did not load..." />
 
 <!-- WOW, YOU'RE ACTUALLY READING THE SOURCE! 😄 -->
 
