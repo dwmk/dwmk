@@ -80,5 +80,5 @@ I'm Dewan Mukto
 [![Instagram](https://img.shields.io/badge/dewanmukto-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dewanmukto)
 [![X/Twitter](https://img.shields.io/badge/dewan_mukto-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DEWAN_MUKTO)
 [![YouTube](https://img.shields.io/badge/DewanMukto-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DewanMukto)
-[![Mastodon](https://img.shields.io/badge/DewanMukto-563ACC?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@dwmk)
-[![Telegram](https://img.shields.io/badge/DewanMukto-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nuclearhorizon)
+[![Mastodon](https://img.shields.io/badge/dwmk-563ACC?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@dwmk)
+[![Telegram](https://img.shields.io/badge/nuclearhorizon-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nuclearhorizon)
